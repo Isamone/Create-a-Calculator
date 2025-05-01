@@ -1,4 +1,3 @@
-"""
 Create a simple calculator 
 
 Create a simple calculator application in Python that can perform basic arithmetic operations such as addition, subtraction, multiplication, and division.
@@ -38,7 +37,7 @@ You may want to use a "while" loop to allow the user to roll the dice multiple t
 some messages to make the program more user-friendly
 
 Answer:
-"""
+
 num1 = int(input("Enter first number: \n"))
 num2 = int(input("Enter second number: \n"))
 
